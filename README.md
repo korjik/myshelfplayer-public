@@ -80,15 +80,17 @@ Privacy documents:
 
 - [Privacy Policy](docs/privacy-policy.html)
 - [User Privacy Choices](docs/privacy-choices.html)
+- [Support](docs/support.html)
 
 If this repository is hosted with GitHub Pages from the `docs/` folder, the public URLs are expected to be:
 
 - `https://korjik.github.io/shelfrepo-public/privacy-policy.html`
 - `https://korjik.github.io/shelfrepo-public/privacy-choices.html`
+- `https://korjik.github.io/shelfrepo-public/support.html`
 
 ## Support
 
-For support, use the App Store support link for My Shelf Player or open an issue in the public repository if issues are enabled.
+For support, email [myshelfplayer@kozhokaru.com](mailto:myshelfplayer@kozhokaru.com).
 
 ## Legal
 
